@@ -110,7 +110,7 @@ Todos los demás puertos aparecieron como **filtrados**. El sistema fue fortific
 3. Reglas UFW aplicadas
 4. Reglas IPTables aplicadas
 5. Estado final con Nmap
-ARCHIVO: ESCANEO_MAP y CAPTURAS DE PANTALLA DE METASPLOTAIBLE2
+Archivos:ESCANEO NMAP y CAPTURAS DE PANTALLA DE METASPLOTAIBLE2
 ---
 
 ## Conclusiones
