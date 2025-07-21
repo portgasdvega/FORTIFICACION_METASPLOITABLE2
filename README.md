@@ -105,12 +105,12 @@ Todos los demás puertos aparecieron como **filtrados**. El sistema fue fortific
 
 ## Evidencias
 
-1. Escaneo inicial
+1. Escaneo inicial 
 2. Cierre de servicios
 3. Reglas UFW aplicadas
 4. Reglas IPTables aplicadas
 5. Estado final con Nmap
-
+ARCHIVO: ESCANEO_MAP y CAPTURAS DE PANTALLA DE METASPLOTAIBLE2
 ---
 
 ## Conclusiones
